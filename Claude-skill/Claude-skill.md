@@ -19,7 +19,10 @@ clean-code-mentor 스킬 적용해서 분석할게.이제 코드를 분석할게
 
 ---
 
-아래는 리팩토링된 버전이야.```python
+아래는 리팩토링된 버전이야.
+<img width="1414" height="430" alt="image" src="https://github.com/user-attachments/assets/98e00190-a035-4431-8795-cbb09d23c26b" />
+
+```python
 import streamlit as st
 import os
 import gdown
