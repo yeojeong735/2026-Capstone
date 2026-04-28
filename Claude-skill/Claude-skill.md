@@ -1,3 +1,7 @@
+<img width="1204" height="898" alt="image" src="https://github.com/user-attachments/assets/1f7360cd-22eb-4ea4-aad1-2b30e1b8811b" />
+
+
+
 clean-code-mentor 스킬 적용해서 분석할게.이제 코드를 분석할게.
 
 ---
